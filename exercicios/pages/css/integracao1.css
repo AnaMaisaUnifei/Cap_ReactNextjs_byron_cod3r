@@ -1,0 +1,13 @@
+/* Está referenciado no _app.js globalmente */
+.integracao1 .vermelha {
+  color: red;
+}
+
+.integracao1 .azul {
+  color: blue;
+}
+
+.integracao1 .branca {
+  background-color: black;
+  color: white;
+}
